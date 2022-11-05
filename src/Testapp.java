@@ -1,3 +1,3 @@
 public class Testapp {
-  //some comment from remore
+  //some comment from remote
 }
